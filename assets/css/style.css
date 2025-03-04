@@ -30,3 +30,7 @@ body {
     color: white;
     margin-left: 100px;
 }
+
+#col-11{
+    background-image: src('assets/img/ab.jpg');
+}
