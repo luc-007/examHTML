@@ -37,5 +37,12 @@ body {
 
 .section1{
     background-color: black;
-    padding-top: 40px;
+    padding-top: 80px;
+}
+
+.rectangle{
+    background-color: rgb(252, 118, 22);
+    width: 300px;
+    border-radius: 5px;
+    margin-left:500px;
 }
