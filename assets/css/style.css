@@ -34,3 +34,8 @@ body {
 #col-11{
     background-image: src('assets/img/ab.jpg');
 }
+
+.section1{
+    background-color: black;
+    padding-top: 40px;
+}
