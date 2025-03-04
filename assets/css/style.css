@@ -16,4 +16,9 @@ body {
     justify-content: center;
     background-color: black;
     color: white;
+    position: fixed;
+}
+
+.dropdown-menu{
+    background-color: chocolate;
 }
